@@ -20,9 +20,14 @@
          gap: .5rem; padding: 2rem; text-align: center }
   a { color: #2A8C7A }
   .byline { font-size: 14px; opacity: .65 }
+
+/* the maker's name, wherever it appears: a quiet link out to who made this. Same dotted
+   underline the header credit already uses, so it reads as a link without shouting. */
+.by-me{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor}
+.by-me:hover,.by-me:focus-visible{border-bottom-style:solid}
 </style>
 <body>
   <p>Taking you to the <a href="/biology-hub/">Biology Hub</a>…</p>
-  <p class="byline">Made by Dr Daniel Mompel Riera · NLCS Jeju</p>
+  <p class="byline">Made by <a class="by-me" href="https://github.com/Mompel226" target="_blank" rel="noopener" title="Who made this — and everything else that is free to use">Dr Daniel Mompel Riera</a> · NLCS Jeju</p>
 </body>
 </html>
