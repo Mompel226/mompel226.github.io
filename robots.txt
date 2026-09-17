@@ -1,0 +1,5 @@
+# nlcsbiology.com — everything here is meant to be found and used.
+User-agent: *
+Allow: /
+
+Sitemap: https://nlcsbiology.com/sitemap.xml
