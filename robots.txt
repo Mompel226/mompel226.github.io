@@ -2,4 +2,9 @@
 User-agent: *
 Allow: /
 
+# The open edition is served from this domain as well, but it is a near copy of
+# /biology-hub/ — two almost identical pages would compete with each other in
+# search and neither would win. Anyone who wants that edition finds it on GitHub.
+Disallow: /igcse-biology-hub/
+
 Sitemap: https://nlcsbiology.com/sitemap.xml
