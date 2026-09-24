@@ -24,6 +24,7 @@ Removing it detaches the domain from **all eleven sites at once**, and they fall
     nlcsbiology.com/plants-hub/
     nlcsbiology.com/classification-lab/
     nlcsbiology.com/plants-lab/
+    nlcsbiology.com/bio-english-lab/
     nlcsbiology.com/digestion-lab/
     nlcsbiology.com/protein-enzyme-sim/
     nlcsbiology.com/B11-starch-calibration-curve-pract/
