@@ -2,7 +2,7 @@
 
 **repo: `mompel226.github.io`** — the one repository whose name GitHub treats as special.
 
-It holds no site. Its whole job is two files:
+It holds no site. Its main job is two files (the sitemap and `robots.txt` are below):
 
 | File | What it does |
 |---|---|
@@ -11,8 +11,9 @@ It holds no site. Its whole job is two files:
 
 ## Do not delete the CNAME file
 
-Removing it detaches the domain from **all eleven sites at once**, and they fall back to
-`mompel226.github.io/<repo>/`. It is one line of text doing the work of eleven settings screens.
+Removing it detaches the domain from **every site at once**, and they fall back to
+`mompel226.github.io/<repo>/`. It is one line of text doing the work of a settings screen per
+repository.
 
 ## The addresses it creates
 
@@ -24,14 +25,34 @@ Removing it detaches the domain from **all eleven sites at once**, and they fall
     nlcsbiology.com/plants-hub/
     nlcsbiology.com/classification-lab/
     nlcsbiology.com/plants-lab/
-    nlcsbiology.com/bio-english-lab/
     nlcsbiology.com/digestion-lab/
+    nlcsbiology.com/circulation-lab/
+    nlcsbiology.com/bio-english-lab/
+    nlcsbiology.com/write-up-lab/
+    nlcsbiology.com/learn-r/
     nlcsbiology.com/protein-enzyme-sim/
     nlcsbiology.com/B11-starch-calibration-curve-pract/
     nlcsbiology.com/veterinary-society/
 
 The old `mompel226.github.io/<repo>/` addresses redirect here, so anything already sent to a
 class still works.
+
+## The sitemap: front doors only
+
+`sitemap.xml` tells Google what is here, and `robots.txt` points search engines at it. The rule
+(Daniel, 1 October 2026):
+
+- **Front doors only.** One line for each site in the list above, and one for `nlcsbiology.com` itself. A
+  page inside a site is never listed: the teacher tools page and the Learn R courses are reached from
+  their site's front door.
+- **No dates.** The sitemap carries no `<lastmod>`: nothing kept those dates true, and a wrong date
+  is worse than none.
+- **The open edition stays out.** `/igcse-biology-hub/` is almost a copy of `/biology-hub/`, so
+  `robots.txt` keeps search engines off it.
+
+Publishing a new site means one more `<url>` in `sitemap.xml` (its front door, no date) and one more
+entry in `PUBLISHED` in the workspace's `tools/status.mjs`, which checks that the two agree and that
+the rule holds. Then Daniel resubmits the sitemap in Google Search Console.
 
 ## The DNS behind it
 
