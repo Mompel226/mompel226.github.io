@@ -10,5 +10,6 @@ Disallow: /igcse-biology-hub/
 # Films made by pupils and staff are shown on their own page, with permission. They are
 # for a visitor of that page, not for a search result.
 Disallow: /biology-hub/assets/film/
+Disallow: /foundations-hub/assets/film/
 
 Sitemap: https://nlcsbiology.com/sitemap.xml
