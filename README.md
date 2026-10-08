@@ -20,10 +20,12 @@ repository.
     nlcsbiology.com                  → the Biology Hub, the front door
     nlcsbiology.com/biology-hub/       NLCS edition
     nlcsbiology.com/igcse-biology-hub/ open edition
+    nlcsbiology.com/foundations-hub/
     nlcsbiology.com/human-body-hub/
     nlcsbiology.com/life-on-earth-hub/
     nlcsbiology.com/plants-hub/
     nlcsbiology.com/classification-lab/
+    nlcsbiology.com/cells-lab/
     nlcsbiology.com/plants-lab/
     nlcsbiology.com/digestion-lab/
     nlcsbiology.com/circulation-lab/
