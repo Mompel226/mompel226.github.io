@@ -34,6 +34,7 @@ repository.
     nlcsbiology.com/learn-r/
     nlcsbiology.com/protein-enzyme-sim/
     nlcsbiology.com/B11-starch-calibration-curve-pract/
+    nlcsbiology.com/rocky-shore-fieldwork-pract/
     nlcsbiology.com/veterinary-society/
 
 The old `mompel226.github.io/<repo>/` addresses redirect here, so anything already sent to a
