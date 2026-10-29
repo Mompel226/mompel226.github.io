@@ -34,7 +34,7 @@ repository.
     nlcsbiology.com/learn-r/
     nlcsbiology.com/protein-enzyme-sim/
     nlcsbiology.com/B11-starch-calibration-curve-pract/
-    nlcsbiology.com/rocky-shore-fieldwork-pract/
+    nlcsbiology.com/B41-rocky-shore-fieldwork-pract/
     nlcsbiology.com/A22-microscopy-skills-pract/
     nlcsbiology.com/ks3-separating-mixtures-pract/
     nlcsbiology.com/ks3-y7-chemistry-revision/
