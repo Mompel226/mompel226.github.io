@@ -29,6 +29,7 @@ repository.
     nlcsbiology.com/plants-lab/
     nlcsbiology.com/digestion-lab/
     nlcsbiology.com/circulation-lab/
+    nlcsbiology.com/immunity-lab/
     nlcsbiology.com/bio-english-lab/
     nlcsbiology.com/write-up-lab/
     nlcsbiology.com/learn-r/
