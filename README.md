@@ -39,6 +39,7 @@ repository.
     nlcsbiology.com/A22-microscopy-skills-pract/
     nlcsbiology.com/ks3-separating-mixtures-pract/
     nlcsbiology.com/ks3-y7-chemistry-revision/
+    nlcsbiology.com/ks3-y7-cell-organelles/
     nlcsbiology.com/veterinary-society/
 
 The old `mompel226.github.io/<repo>/` addresses redirect here, so anything already sent to a
