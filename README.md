@@ -71,7 +71,7 @@ the site works intermittently.
 
 ---
 
-Made by Dr Daniel Mompel Riera · NLCS Jeju
+Made by Dr Daniel Mompel Riera
 
 ## Licence
 
