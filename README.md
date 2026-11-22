@@ -27,6 +27,7 @@ repository.
     nlcsbiology.com/classification-lab/
     nlcsbiology.com/cells-lab/
     nlcsbiology.com/membrane-lab/
+    nlcsbiology.com/molecules-lab/
     nlcsbiology.com/plants-lab/
     nlcsbiology.com/digestion-lab/
     nlcsbiology.com/circulation-lab/
