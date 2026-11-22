@@ -33,6 +33,7 @@ repository.
     nlcsbiology.com/circulation-lab/
     nlcsbiology.com/immunity-lab/
     nlcsbiology.com/gas-exchange-lab/
+    nlcsbiology.com/respiration-lab/
     nlcsbiology.com/inheritance-lab/
     nlcsbiology.com/bio-english-lab/
     nlcsbiology.com/write-up-lab/
