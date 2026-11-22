@@ -26,10 +26,12 @@ repository.
     nlcsbiology.com/plants-hub/
     nlcsbiology.com/classification-lab/
     nlcsbiology.com/cells-lab/
+    nlcsbiology.com/membrane-lab/
     nlcsbiology.com/plants-lab/
     nlcsbiology.com/digestion-lab/
     nlcsbiology.com/circulation-lab/
     nlcsbiology.com/immunity-lab/
+    nlcsbiology.com/gas-exchange-lab/
     nlcsbiology.com/inheritance-lab/
     nlcsbiology.com/bio-english-lab/
     nlcsbiology.com/write-up-lab/
