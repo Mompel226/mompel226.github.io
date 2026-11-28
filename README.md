@@ -36,6 +36,7 @@ repository.
     nlcsbiology.com/gas-exchange-lab/
     nlcsbiology.com/respiration-lab/
     nlcsbiology.com/inheritance-lab/
+    nlcsbiology.com/variation-lab/
     nlcsbiology.com/bio-english-lab/
     nlcsbiology.com/write-up-lab/
     nlcsbiology.com/learn-r/
